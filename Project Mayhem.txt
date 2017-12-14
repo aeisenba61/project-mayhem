@@ -1,0 +1,31 @@
+Project Title
+Project Mayhem and Walkability 
+
+Team Members
+Kristen Talbot
+Karoline Oldham
+Brian Bales
+Aaron Eisenbarth
+
+Project Description/Outline
+Test walkability score versus crime rate hypotheses 
+
+Research Questions to Answer
+Do Walk, Transit, Bike Scores influence home sales, household income, and household demographics?
+
+Is there an observable correlation between walkability scores and crime rates?
+Does it vary based on the violent versus non-violent crime?
+Does it vary based on metropolitan versus rural area?
+
+Data Sets to be Used
+Walk, Bike, Transit Score API
+FBI Crime data
+Census Data - demographic data 
+
+Rough Breakdown of Tasks 
+Get walkability scores from API
+Get Crime data from API 
+Merge data 
+Generate graphical comparisons
+Descriptive statistics
+
