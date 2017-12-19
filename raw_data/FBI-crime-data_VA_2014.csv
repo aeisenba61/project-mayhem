@@ -1,20 +1,17 @@
-Crime Category,Crime Subcategory,Albemarle County Police Department,Alexandria Police Dept,Arlington County Police Department,Chesapeake Police Dept,Chesterfield County Police Department,Fairfax County Police Department,Hampton Police Dept,Henrico County Police Dept,Loudoun County Sheriff Office,Newport News Police Dept,Norfolk Police Dept,Prince William County Police Department,Richmond (City) Bureau Of Police,Spotsylvania County Sheriff Office,Stafford County Sheriff Office,Virginia Beach Police Dept
-Violent crime,Population Coverage,,"151,065",,"232,489",,,"136,590",,,"182,374.00","247,078",,"216,747",,,"451,102"
-Violent crime,Violent crime total,97,280,314,999,422,969,349,502,221,782,"1,285",773,"1,264",213,243,667
-Violent crime,Murder and nonnegligent manslaughter,1,4,1,10,8,10,10,10,3,25,31,7,43,3,1,17
-Violent crime,Rape,26,25,37,68,81,159,33,28.00,51,72.00,126,99,43,22,56,115
-Property crime,Robbery,12,142,111,180,150,400,111,183,41,231,392,205,568,44,30,250
-Property crime,Aggravated assault,58,109,165,741,183,400,195,281.00,126,454.00,736,462,610,144,156,285
-Property crime,Property crime total,"1,604","2,983","3,521","6,429","6,373","14,603","4,441","7,818","2,607","5,552","9,696","5,901","8,426","1,975","2,111","9,865"
-Property crime,Burglary,200,259,204,"1,013","1,328",917,614,"1,113",173,916,"1,313",645,"1,690",293,164,"1,051"
-Violent crime,Larceny-theft,"1,355","2,457","3,175","5,126","4,869","12,938","3,598","6,410.00","2,322","4,310.00","7,878","4,965","5,998","1,631","1,842","8,448"
-Violent crime,Motor vehicle theft,49,267,142,290,176,748,229,295,112,326,505,291,738,51,105,366
-Violent crime,Violent Crime rate,,185.4,,429.7,,,255.5,,,428.8,520.1,,583.2,,,147.9
-Violent crime,Murder and nonnegligent manslaughter rate,,2.6,,4.3,,,7.3,,,13.7,12.5,,19.8,,,3.8
-Violent crime,Rape Rate,,16.5,,29.2,,,24.2,,,39.5,51,,19.8,,,25.5
-Property crime,Robbery rate,,94,,77.4,,,81.3,,,126.7,158.7,,262.1,,,55.4
-Property crime,Aggravated assault rate,,72.2,,318.7,,,142.8,,,248.9,297.9,,281.4,,,63.2
-Property crime,Property crime rate,,"1,974.60",,"2,765.30",,,"3,251.30",,,"3,044.30","3,924.30",,"3,887.50",,,"2,186.90"
-Property crime,Burglary rate,,171.4,,435.7,,,449.5,,,502.3,531.4,,779.7,,,233
-Property crime,Larceny-theft,,"1,626.50",,"2,204.80",,,"2,634.20",,,"2,363.30","3,188.50",,"2,767.30",,,"1,872.70"
-Property crime,Motor vehicle theft rate,,176.7,,124.7,,,167.7,,,178.8,204.4,,340.5,,,81.1
+Crime Category,Violent crime total,Murder and nonnegligent manslaughter,Rape,Robbery,Aggravated assault,Property crime total,Burglary,Larceny-theft,Motor vehicle theft
+"Albemarle County, Virginia",97,1,26,12,58,"1,604",200,"1,355",49
+"Alexandria city, Virginia",280,4,25,142,109,"2,983",259,"2,457",267
+"Arlington County, Virginia",314,1,37,111,165,"3,521",204,"3,175",142
+"Chesapeake city, Virginia",999,10,68,180,741,"6,429","1,013","5,126",290
+"Chesterfield County, Virginia",422,8,81,150,183,"6,373","1,328","4,869",176
+"Fairfax County, Virginia",969,10,159,400,400,"14,603",917,"12,938",748
+"Hampton city, Virginia",349,10,33,111,195,"4,441",614,"3,598",229
+"Henrico County, Virginia",502,10,28,183,281,"7,818","1,113","6,410.00",295
+"Loudoun County, Virginia",221,3,51,41,126,"2,607",173,"2,322",112
+"Newport News city, Virginia",782,25,72,231,454,"5,552",916,"4,310.00",326
+"Norfolk city, Virginia","1,285",31,126,392,736,"9,696","1,313","7,878",505
+"Prince William County, Virginia",773,7,99,205,462,"5,901",645,"4,965",291
+"Richmond city, Virginia","1,264",43,43,568,610,"8,426","1,690","5,998",738
+"Spotsylvania County, Virginia",213,3,22,44,144,"1,975",293,"1,631",51
+"Stafford County, Virginia",243,1,56,30,156,"2,111",164,"1,842",105
+"Virginia Beach city, Virginia",667,17,115,250,285,"9,865","1,051","8,448",366
