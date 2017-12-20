@@ -1,0 +1,578 @@
+Index 517:
+Walkscore: 25; Transit Score: None; Bike Score: 39
+Index 547:
+Walkscore: 24; Transit Score: None; Bike Score: 36
+Index 591:
+Walkscore: 30; Transit Score: None; Bike Score: 36
+Index 617:
+Walkscore: 25; Transit Score: None; Bike Score: 39
+Index 647:
+Walkscore: 24; Transit Score: None; Bike Score: 36
+Index 1000:
+Walkscore: 18; Transit Score: None; Bike Score: 35
+Index 1001:
+Walkscore: 8; Transit Score: None; Bike Score: 61
+Index 1002:
+Walkscore: 0; Transit Score: None; Bike Score: 27
+Index 1003:
+Walkscore: 0; Transit Score: None; Bike Score: 33
+Index 1004:
+Walkscore: 0; Transit Score: None; Bike Score: 31
+Index 1005:
+Walkscore: 38; Transit Score: None; Bike Score: 45
+Index 1006:
+Walkscore: 0; Transit Score: None; Bike Score: 27
+Index 1008:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1009:
+Walkscore: 8; Transit Score: None; Bike Score: 28
+Index 1010:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1011:
+Walkscore: 0; Transit Score: None; Bike Score: 31
+Index 1012:
+Walkscore: 63; Transit Score: None; Bike Score: 73
+Index 1013:
+Walkscore: 0; Transit Score: None; Bike Score: 32
+Index 1014:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1015:
+Walkscore: 14; Transit Score: None; Bike Score: 34
+Index 1017:
+Walkscore: 28; Transit Score: None; Bike Score: 37
+Index 1018:
+Walkscore: 56; Transit Score: None; Bike Score: 74
+Index 1020:
+Walkscore: 71; Transit Score: None; Bike Score: 66
+Index 1021:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1022:
+Walkscore: 47; Transit Score: None; Bike Score: 58
+Index 1023:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1024:
+Walkscore: 16; Transit Score: None; Bike Score: 48
+Index 1025:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1026:
+Walkscore: 2; Transit Score: None; Bike Score: 26
+Index 1027:
+Walkscore: 4; Transit Score: None; Bike Score: 41
+Index 1028:
+Walkscore: 1; Transit Score: None; Bike Score: 27
+Index 1029:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1030:
+Walkscore: 13; Transit Score: None; Bike Score: 28
+Index 1031:
+Walkscore: 16; Transit Score: None; Bike Score: 38
+Index 1032:
+Walkscore: 50; Transit Score: None; Bike Score: 40
+Index 1034:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1035:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1036:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1038:
+Walkscore: 37; Transit Score: None; Bike Score: 47
+Index 1039:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1040:
+Walkscore: 1; Transit Score: None; Bike Score: 31
+Index 1042:
+Walkscore: 12; Transit Score: None; Bike Score: 34
+Index 1043:
+Walkscore: 19; Transit Score: None; Bike Score: 48
+Index 1045:
+Walkscore: 13; Transit Score: None; Bike Score: 31
+Index 1046:
+Walkscore: 0; Transit Score: None; Bike Score: 28
+Index 1048:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1050:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1051:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1052:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1053:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1054:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1055:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1056:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1057:
+Walkscore: 3; Transit Score: None; Bike Score: 26
+Index 1058:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1059:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1060:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1062:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1064:
+Walkscore: 1; Transit Score: None; Bike Score: 25
+Index 1065:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1066:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1067:
+Walkscore: 0; Transit Score: None; Bike Score: 33
+Index 1068:
+Walkscore: 0; Transit Score: None; Bike Score: 32
+Index 1069:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1070:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1071:
+Walkscore: 2; Transit Score: None; Bike Score: 26
+Index 1072:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1075:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1076:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1077:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1078:
+Walkscore: 2; Transit Score: None; Bike Score: 26
+Index 1079:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1080:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1082:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1083:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1084:
+Walkscore: 0; Transit Score: None; Bike Score: 49
+Index 1085:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1086:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1087:
+Walkscore: 0; Transit Score: None; Bike Score: 29
+Index 1088:
+Walkscore: 4; Transit Score: None; Bike Score: 40
+Index 1089:
+Walkscore: 5; Transit Score: None; Bike Score: 27
+Index 1090:
+Walkscore: 1; Transit Score: None; Bike Score: 25
+Index 1091:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1092:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1093:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1094:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1095:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1096:
+Walkscore: 0; Transit Score: None; Bike Score: 25
+Index 1097:
+Walkscore: 1; Transit Score: None; Bike Score: 25
+Index 1099:
+Walkscore: 0; Transit Score: None; Bike Score: 45
+Index 1200:
+Walkscore: 72; Transit Score: None; Bike Score: 90
+Index 1201:
+Walkscore: 74; Transit Score: None; Bike Score: 85
+Index 1202:
+Walkscore: 75; Transit Score: None; Bike Score: 90
+Index 1203:
+Walkscore: 70; Transit Score: None; Bike Score: 86
+Index 1204:
+Walkscore: 44; Transit Score: None; Bike Score: 48
+Index 1205:
+Walkscore: 80; Transit Score: None; Bike Score: 91
+Index 1206:
+Walkscore: 73; Transit Score: None; Bike Score: 85
+Index 1207:
+Walkscore: 85; Transit Score: None; Bike Score: 79
+Index 1208:
+Walkscore: 69; Transit Score: None; Bike Score: 90
+Index 1209:
+Walkscore: 56; Transit Score: None; Bike Score: 68
+Index 1210:
+Walkscore: 80; Transit Score: None; Bike Score: 87
+Index 1211:
+Walkscore: 72; Transit Score: None; Bike Score: 90
+Index 1212:
+Walkscore: 59; Transit Score: None; Bike Score: 82
+Index 1213:
+Walkscore: 27; Transit Score: None; Bike Score: 73
+Index 1214:
+Walkscore: 83; Transit Score: None; Bike Score: 91
+Index 1215:
+Walkscore: 98; Transit Score: None; Bike Score: 88
+Index 1216:
+Walkscore: 33; Transit Score: None; Bike Score: 63
+Index 1217:
+Walkscore: 68; Transit Score: None; Bike Score: 77
+Index 1218:
+Walkscore: 44; Transit Score: None; Bike Score: 70
+Index 1219:
+Walkscore: 90; Transit Score: None; Bike Score: 86
+Index 1220:
+Walkscore: 78; Transit Score: None; Bike Score: 75
+Index 1221:
+Walkscore: 66; Transit Score: None; Bike Score: 88
+Index 1222:
+Walkscore: 10; Transit Score: None; Bike Score: 58
+Index 1223:
+Walkscore: 56; Transit Score: None; Bike Score: 74
+Index 1224:
+Walkscore: 83; Transit Score: None; Bike Score: 85
+Index 1225:
+Walkscore: 81; Transit Score: None; Bike Score: 89
+Index 1226:
+Walkscore: 84; Transit Score: None; Bike Score: 90
+Index 1227:
+Walkscore: 64; Transit Score: None; Bike Score: 81
+Index 1228:
+Walkscore: 89; Transit Score: None; Bike Score: 84
+Index 1229:
+Walkscore: 34; Transit Score: None; Bike Score: 48
+Index 1230:
+Walkscore: 61; Transit Score: None; Bike Score: 86
+Index 1231:
+Walkscore: 19; Transit Score: None; Bike Score: 69
+Index 1232:
+Walkscore: 63; Transit Score: None; Bike Score: 87
+Index 1233:
+Walkscore: 83; Transit Score: None; Bike Score: 84
+Index 1234:
+Walkscore: 32; Transit Score: None; Bike Score: 67
+Index 1235:
+Walkscore: 44; Transit Score: None; Bike Score: 73
+Index 1236:
+Walkscore: 53; Transit Score: None; Bike Score: 83
+Index 1237:
+Walkscore: 17; Transit Score: None; Bike Score: 58
+Index 1238:
+Walkscore: 75; Transit Score: None; Bike Score: 85
+Index 1239:
+Walkscore: 54; Transit Score: None; Bike Score: 80
+Index 1240:
+Walkscore: 97; Transit Score: None; Bike Score: 88
+Index 1241:
+Walkscore: 76; Transit Score: None; Bike Score: 89
+Index 1242:
+Walkscore: 55; Transit Score: None; Bike Score: 80
+Index 1243:
+Walkscore: 54; Transit Score: None; Bike Score: 68
+Index 1244:
+Walkscore: 68; Transit Score: None; Bike Score: 90
+Index 1245:
+Walkscore: 13; Transit Score: None; Bike Score: 56
+Index 1246:
+Walkscore: 54; Transit Score: None; Bike Score: 59
+Index 1247:
+Walkscore: 17; Transit Score: None; Bike Score: 54
+Index 1248:
+Walkscore: 28; Transit Score: None; Bike Score: 62
+Index 1249:
+Walkscore: 78; Transit Score: None; Bike Score: 90
+Index 1250:
+Walkscore: 71; Transit Score: None; Bike Score: 78
+Index 1251:
+Walkscore: 31; Transit Score: None; Bike Score: 44
+Index 1252:
+Walkscore: 68; Transit Score: None; Bike Score: 76
+Index 1253:
+Walkscore: 37; Transit Score: None; Bike Score: 49
+Index 1254:
+Walkscore: 40; Transit Score: None; Bike Score: 40
+Index 1255:
+Walkscore: 44; Transit Score: None; Bike Score: 47
+Index 1256:
+Walkscore: 26; Transit Score: None; Bike Score: 28
+Index 1257:
+Walkscore: 49; Transit Score: None; Bike Score: 68
+Index 1258:
+Walkscore: 35; Transit Score: None; Bike Score: 40
+Index 1259:
+Walkscore: 68; Transit Score: None; Bike Score: 67
+Index 1260:
+Walkscore: 57; Transit Score: None; Bike Score: 49
+Index 1261:
+Walkscore: 68; Transit Score: None; Bike Score: 80
+Index 1262:
+Walkscore: 43; Transit Score: None; Bike Score: 49
+Index 1263:
+Walkscore: 74; Transit Score: None; Bike Score: 50
+Index 1264:
+Walkscore: 35; Transit Score: None; Bike Score: 57
+Index 1265:
+Walkscore: 64; Transit Score: None; Bike Score: 69
+Index 1266:
+Walkscore: 42; Transit Score: None; Bike Score: 66
+Index 1267:
+Walkscore: 75; Transit Score: None; Bike Score: 70
+Index 1268:
+Walkscore: 66; Transit Score: None; Bike Score: 69
+Index 1269:
+Walkscore: 15; Transit Score: None; Bike Score: 47
+Index 1270:
+Walkscore: 52; Transit Score: None; Bike Score: 60
+Index 1271:
+Walkscore: 40; Transit Score: None; Bike Score: 48
+Index 1272:
+Walkscore: 33; Transit Score: None; Bike Score: 39
+Index 1273:
+Walkscore: 51; Transit Score: None; Bike Score: 48
+Index 1274:
+Walkscore: 22; Transit Score: None; Bike Score: 60
+Index 1275:
+Walkscore: 73; Transit Score: None; Bike Score: 49
+Index 1276:
+Walkscore: 48; Transit Score: None; Bike Score: 57
+Index 1277:
+Walkscore: 22; Transit Score: None; Bike Score: 36
+Index 1278:
+Walkscore: 44; Transit Score: None; Bike Score: 52
+Index 1279:
+Walkscore: 40; Transit Score: None; Bike Score: 69
+Index 1280:
+Walkscore: 74; Transit Score: None; Bike Score: 73
+Index 1281:
+Walkscore: 58; Transit Score: None; Bike Score: 65
+Index 1282:
+Walkscore: 26; Transit Score: None; Bike Score: 62
+Index 1283:
+Walkscore: 39; Transit Score: None; Bike Score: 43
+Index 1284:
+Walkscore: 9; Transit Score: None; Bike Score: 42
+Index 1285:
+Walkscore: 43; Transit Score: None; Bike Score: 65
+Index 1286:
+Walkscore: 19; Transit Score: None; Bike Score: 61
+Index 1287:
+Walkscore: 57; Transit Score: None; Bike Score: 65
+Index 1288:
+Walkscore: 19; Transit Score: None; Bike Score: 53
+Index 1289:
+Walkscore: 17; Transit Score: None; Bike Score: 53
+Index 1290:
+Walkscore: 23; Transit Score: None; Bike Score: 63
+Index 1291:
+Walkscore: 68; Transit Score: None; Bike Score: 66
+Index 1292:
+Walkscore: 40; Transit Score: None; Bike Score: 46
+Index 1293:
+Walkscore: 54; Transit Score: None; Bike Score: 43
+Index 1294:
+Walkscore: 66; Transit Score: None; Bike Score: 71
+Index 1295:
+Walkscore: 52; Transit Score: None; Bike Score: 60
+Index 1296:
+Walkscore: 48; Transit Score: None; Bike Score: 69
+Index 1297:
+Walkscore: 50; Transit Score: None; Bike Score: 59
+Index 1298:
+Walkscore: 17; Transit Score: None; Bike Score: 41
+Index 1300:
+Walkscore: 71; Transit Score: None; Bike Score: 80
+Index 1301:
+Walkscore: 64; Transit Score: None; Bike Score: 76
+Index 1302:
+Walkscore: 68; Transit Score: None; Bike Score: 78
+Index 1303:
+Walkscore: 35; Transit Score: None; Bike Score: 50
+Index 1304:
+Walkscore: 60; Transit Score: None; Bike Score: 66
+Index 1305:
+Walkscore: 78; Transit Score: None; Bike Score: 83
+Index 1306:
+Walkscore: 90; Transit Score: None; Bike Score: 80
+Index 1307:
+Walkscore: 78; Transit Score: None; Bike Score: 86
+Index 1308:
+Walkscore: 63; Transit Score: None; Bike Score: 77
+Index 1309:
+Walkscore: 56; Transit Score: None; Bike Score: 67
+Index 1310:
+Walkscore: 84; Transit Score: None; Bike Score: 78
+Index 1311:
+Walkscore: 39; Transit Score: None; Bike Score: 54
+Index 1312:
+Walkscore: 59; Transit Score: None; Bike Score: 65
+Index 1313:
+Walkscore: 36; Transit Score: None; Bike Score: 58
+Index 1314:
+Walkscore: 12; Transit Score: None; Bike Score: 56
+Index 1315:
+Walkscore: 63; Transit Score: None; Bike Score: 72
+Index 1316:
+Walkscore: 71; Transit Score: None; Bike Score: 78
+Index 1317:
+Walkscore: 61; Transit Score: None; Bike Score: 74
+Index 1318:
+Walkscore: 74; Transit Score: None; Bike Score: 80
+Index 1319:
+Walkscore: 60; Transit Score: None; Bike Score: 62
+Index 1320:
+Walkscore: 51; Transit Score: None; Bike Score: 62
+Index 1321:
+Walkscore: 17; Transit Score: None; Bike Score: 65
+Index 1322:
+Walkscore: 75; Transit Score: None; Bike Score: 86
+Index 1323:
+Walkscore: 33; Transit Score: None; Bike Score: 32
+Index 1324:
+Walkscore: 36; Transit Score: None; Bike Score: 47
+Index 1325:
+Walkscore: 74; Transit Score: None; Bike Score: 74
+Index 1326:
+Walkscore: 74; Transit Score: None; Bike Score: 80
+Index 1327:
+Walkscore: 75; Transit Score: None; Bike Score: 79
+Index 1328:
+Walkscore: 96; Transit Score: None; Bike Score: 85
+Index 1329:
+Walkscore: 50; Transit Score: None; Bike Score: 62
+Index 1330:
+Walkscore: 83; Transit Score: None; Bike Score: 81
+Index 1331:
+Walkscore: 45; Transit Score: None; Bike Score: 56
+Index 1332:
+Walkscore: 64; Transit Score: None; Bike Score: 81
+Index 1333:
+Walkscore: 89; Transit Score: None; Bike Score: 79
+Index 1334:
+Walkscore: 55; Transit Score: None; Bike Score: 78
+Index 1335:
+Walkscore: 92; Transit Score: None; Bike Score: 80
+Index 1336:
+Walkscore: 71; Transit Score: None; Bike Score: 72
+Index 1337:
+Walkscore: 76; Transit Score: None; Bike Score: 80
+Index 1338:
+Walkscore: 19; Transit Score: None; Bike Score: 52
+Index 1339:
+Walkscore: 92; Transit Score: None; Bike Score: 81
+Index 1340:
+Walkscore: 79; Transit Score: None; Bike Score: 81
+Index 1341:
+Walkscore: 55; Transit Score: None; Bike Score: 76
+Index 1342:
+Walkscore: 60; Transit Score: None; Bike Score: 80
+Index 1343:
+Walkscore: 87; Transit Score: None; Bike Score: 74
+Index 1344:
+Walkscore: 94; Transit Score: None; Bike Score: 81
+Index 1345:
+Walkscore: 54; Transit Score: None; Bike Score: 57
+Index 1346:
+Walkscore: 69; Transit Score: None; Bike Score: 70
+Index 1347:
+Walkscore: 56; Transit Score: None; Bike Score: 73
+Index 1348:
+Walkscore: 54; Transit Score: None; Bike Score: 59
+Index 1349:
+Walkscore: 60; Transit Score: None; Bike Score: 70
+Index 1350:
+Walkscore: 37; Transit Score: None; Bike Score: 67
+Index 1351:
+Walkscore: 61; Transit Score: None; Bike Score: 69
+Index 1352:
+Walkscore: 53; Transit Score: None; Bike Score: 57
+Index 1353:
+Walkscore: 82; Transit Score: None; Bike Score: 81
+Index 1354:
+Walkscore: 96; Transit Score: None; Bike Score: 76
+Index 1355:
+Walkscore: 78; Transit Score: None; Bike Score: 74
+Index 1356:
+Walkscore: 78; Transit Score: None; Bike Score: 81
+Index 1357:
+Walkscore: 60; Transit Score: None; Bike Score: 75
+Index 1358:
+Walkscore: 66; Transit Score: None; Bike Score: 83
+Index 1359:
+Walkscore: 79; Transit Score: None; Bike Score: 77
+Index 1360:
+Walkscore: 90; Transit Score: None; Bike Score: 84
+Index 1361:
+Walkscore: 23; Transit Score: None; Bike Score: 56
+Index 1362:
+Walkscore: 91; Transit Score: None; Bike Score: 79
+Index 1363:
+Walkscore: 2; Transit Score: None; Bike Score: 31
+Index 1364:
+Walkscore: 68; Transit Score: None; Bike Score: 83
+Index 1365:
+Walkscore: 78; Transit Score: None; Bike Score: 82
+Index 1366:
+Walkscore: 93; Transit Score: None; Bike Score: 71
+Index 1367:
+Walkscore: 80; Transit Score: None; Bike Score: 81
+Index 1368:
+Walkscore: 71; Transit Score: None; Bike Score: 75
+Index 1369:
+Walkscore: 78; Transit Score: None; Bike Score: 80
+Index 1370:
+Walkscore: 60; Transit Score: None; Bike Score: 72
+Index 1371:
+Walkscore: 82; Transit Score: None; Bike Score: 80
+Index 1372:
+Walkscore: 85; Transit Score: None; Bike Score: 81
+Index 1373:
+Walkscore: 48; Transit Score: None; Bike Score: 73
+Index 1374:
+Walkscore: 46; Transit Score: None; Bike Score: 66
+Index 1375:
+Walkscore: 58; Transit Score: None; Bike Score: 78
+Index 1376:
+Walkscore: 3; Transit Score: None; Bike Score: 57
+Index 1377:
+Walkscore: 88; Transit Score: None; Bike Score: 79
+Index 1378:
+Walkscore: 72; Transit Score: None; Bike Score: 81
+Index 1379:
+Walkscore: 83; Transit Score: None; Bike Score: 81
+Index 1380:
+Walkscore: 76; Transit Score: None; Bike Score: 65
+Index 1381:
+Walkscore: 4; Transit Score: None; Bike Score: 59
+Index 1382:
+Walkscore: 94; Transit Score: None; Bike Score: 76
+Index 1383:
+Walkscore: 57; Transit Score: None; Bike Score: 63
+Index 1384:
+Walkscore: 64; Transit Score: None; Bike Score: 78
+Index 1385:
+Walkscore: 17; Transit Score: None; Bike Score: 47
+Index 1386:
+Walkscore: 68; Transit Score: None; Bike Score: 64
+Index 1387:
+Walkscore: 81; Transit Score: None; Bike Score: 80
+Index 1388:
+Walkscore: 79; Transit Score: None; Bike Score: 79
+Index 1389:
+Walkscore: 86; Transit Score: None; Bike Score: 84
+Index 1390:
+Walkscore: 41; Transit Score: None; Bike Score: 63
+Index 1391:
+Walkscore: 64; Transit Score: None; Bike Score: 76
+Index 1392:
+Walkscore: 34; Transit Score: None; Bike Score: 65
+Index 1393:
+Walkscore: 54; Transit Score: None; Bike Score: 75
+Index 1394:
+Walkscore: 46; Transit Score: None; Bike Score: 65
+Index 1395:
+Walkscore: 90; Transit Score: None; Bike Score: 79
+Index 1396:
+Walkscore: 2; Transit Score: None; Bike Score: 27
+Index 1397:
+Walkscore: 57; Transit Score: None; Bike Score: 61
+Index 1398:
+Walkscore: 53; Transit Score: None; Bike Score: 71
+Index 1399:
+Walkscore: 53; Transit Score: None; Bike Score: 69
