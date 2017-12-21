@@ -33,6 +33,11 @@ api_key = 'c58332edc3aafbea28ad89d47614ff8c'
 address = '22031'
 
 
+example = req.get('http://api.walkscore.com/score?format=json&address=1119%8th%20Avenue%20Seattle%20WA%2098101&lat=47.6085&lon=-122.3295&transit=1&bike=1&wsapikey=4e9a14b4cda5f4c809d23bf0f13235d4')
+example_json = example.json()
+print(json.dumps(example_json, indent=2, sort_keys=True))
+
+
 # Get weather data
 for index, row in df.iterrows():
 	x = row['lat'],
@@ -47,9 +52,18 @@ for index, row in df.iterrows():
 	'lon': y
 	}
 	ws_response = req.get(walkscore_url, params=param_dict)
-	
-	df.set_value(index,'walk score',ws_response["walkscore"])
-	df.set_value(index,'transit score',ws_response["transit"])
-	df.set_value(index,'bike score',ws_response["bike"])
+	jsonpull = ws_response.json()
+	try:
+		df.set_value(index,'walk score',jsonpull["walkscore"])
+	except:
+		print('No available data')
+	try:
+		df.set_value(index,'transit score',jsonpull["transit"]['score'])
+	except:
+		print('No available data')
+	try:
+		df.set_value(index,'bike score',jsonpull["bike"]['score'])
+	except:
+		print('No available data')
 	print(row)
 

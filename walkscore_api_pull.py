@@ -22,6 +22,7 @@ import pandas as pd
 
 #import VA lat long file
 df = pd.read_csv('Random VA lat longs.csv')
+df_test = df.head()
 #print(df.head())
 # Save config information.
 # example_string = 'http://api.walkscore.com/score?format=json& \
@@ -40,7 +41,7 @@ param_dict = {
 	}
 
 # Get walk, bike, and transit score data
-for index, row in df.iterrows():
+for index, row in df_test.iterrows():
 
 	# Put API pull in a try/except block to handle
 	# Key Errors when no data are available for a
