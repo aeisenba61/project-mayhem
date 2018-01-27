@@ -1,0 +1,57 @@
+Project Title
+Project Mayhem and Walkability 
+
+Team Members
+Kristen Talbot
+Karoline Oldham
+Brian Bales
+Aaron Eisenbarth
+
+Project Description/Outline
+Test walkability score versus crime rate hypotheses 
+
+Project Tasks to Finish by End of Class on Monday, 12/18:
+Karoline
+Merge data (walkscore data in 4 columns: location, walk score, bike score, transit score, )
+Aaron
+Gather random lat/longs for each of the city county areas 
+Generate walk, bike, transit scores for each
+Create averages for each area
+Brian
+Pull census data for three data elements
+Kristen
+
+Research Questions to Answer
+Do Walk, Transit, Bike Scores influence home sales, household income, and household demographics?
+Is there an observable correlation between walkability scores and crime rates?
+Does it vary based on the violent versus non-violent crime?
+Does it vary based on metropolitan versus rural area?
+
+Data Sets to be Used
+Walk, Bike, Transit Score API
+FBI Crime data: https://www.ucrdatatool.gov/Search/Crime/Local/OneYearofDataLarge.cfm
+Albemarle County Police Department - 51.003
+Alexandria Police Dept - 51.510
+Arlington County Police Department - 51.013
+Chesapeake Police Dept - 51.550
+Chesterfield County Police Department - 51.041
+Fairfax County Police Department - 51.059
+Hampton Police Dept - 51.650
+Henrico County Police Dept - 51.087
+Loudoun County Sheriff Office - 51.107
+Newport News Police Dept - 51.700
+Norfolk Police Dept - 51.710
+Prince William County Police Department - 51.153
+Richmond (City) Bureau Of Police - 51.760
+Spotsylvania County Sheriff Office - 51.177
+Stafford County Sheriff Office - 51.179
+Virginia Beach Police Dept - 51.810
+Census Data - demographic data 
+Randomly generate lat long in an area: http://www.geomidpoint.com/random/
+
+Rough Breakdown of Tasks 
+Get walkability scores from API
+Get Crime data from API 
+Merge data 
+Generate graphical comparisons
+Descriptive statistics
